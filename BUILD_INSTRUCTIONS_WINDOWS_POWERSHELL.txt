@@ -1,0 +1,15 @@
+Windows (using PowerShell):
+Important: First, edit the build.ps1 file (read the comments inside there).
+
+Release build:
+
+.\build.ps1
+
+or
+
+.\build.ps1 Release
+
+Debug build:
+
+.\build.ps1 Debug
+
